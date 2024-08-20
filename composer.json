@@ -6,9 +6,11 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "althinect/filament-spatie-roles-permissions": "^2.2",
         "laravel/framework": "^11.9",
         "laravel/tinker": "^2.9",
         "spatie/laravel-activitylog": "^4.8",
+        "spatie/laravel-permission": "^6.9",
         "z3d0x/filament-logger": "^0.7.2"
     },
     "require-dev": {
